@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PigGame</string>
+    <string name="appHeader">PIG</string>
+    <string name="txtYou">You</string>
+    <string name="txtComp">Computer</string>
+    <string name="btnRoll">Roll</string>
+    <string name="btnHold">Hold</string>
+    <string name="txtGamesWon"> Games Won</string>
+    <string name="txtTotalScore">Total Score</string>
+    <string name="txtTurnTotal">Turn Total</string>
+    <string name="txtDiceTotalNum" translatable="false">%1$d</string>
+    <string name="txtDiceTotal">Dice Total</string>
+    <string name="txtPGamesWon" translatable="false">%1$d</string>
+    <string name="txtPTotalScore" translatable="false">%1$d</string>
+    <string name="txtPTurnTotal" translatable="false">%1$d</string>
+    <string name="txtComGamesWon" translatable="false">%1$d</string>
+    <string name="txtComTotalScore" translatable="false">%1$d</string>
+    <string name="txtComTurnTotal" translatable="false">%1$d</string>
+    <string name="imgDiceDesc">Dice Image</string>
+    <string name="txtWinOrLose">Win/Lose Image</string>
+    <string name="txtAboutWelcome">Welcome to PIG Game</string>
+    <string name="btnSupport">Support</string>
+    <string name="btnAbout">About</string>
+    <string name="imageDesc">An Image of the Void</string>
+    <string name="computerToast">Computer is rolling…</string>
+    <string name="txtLeaderBoardHeader">Pig Leader Board </string>
+    <string name="txtBtnLeaderBoard">Show Leader Board</string>
+    <string name ="btnPlayGame">Play Game</string>
+</resources>

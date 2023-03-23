@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JuegoDeCerdo</string>
+    <string name="appHeader">CERDO</string>
+    <string name="txtYou">Usted</string>
+    <string name="txtComp">Computadora</string>
+    <string name="btnRoll">Rodar</string>
+    <string name="btnHold">Conservar</string>
+    <string name="txtGamesWon">Victorias</string>
+    <string name="txtTotalScore">Puntaje Total</string>
+    <string name="txtTurnTotal">Turno Total</string>
+    <string name="txtDiceTotal">Dado Total</string>
+    <string name="imgDiceDesc">Imagen de Dado</string>
+    <string name="txtWinOrLose">Imagen de Ganar o Perder</string>
+    <string name="txtAboutWelcome">Bienvenido a Juego de Cerdo</string>
+    <string name="btnSupport">Apoyo</string>
+    <string name="btnAbout">Sobre</string>
+    <string name="imageDesc">Imagen del Vacío</string>
+    <string name="computerToast">Computadora está rodando</string>
+    <string name="txtLeaderBoardHeader">Tabla de Líder</string>
+    <string name="txtBtnLeaderBoard">Mostrar Tabla de Líder</string>
+    <string name="btnPlayGame">Juego</string>
+</resources>
