@@ -1,6 +1,6 @@
-                                                               #####################
-                                                               #   PigGameProject  #
-                                                               #####################
+#####################
+#   PigGameProject  #
+#####################
 
 A game application I developed as a school project.
 Several features were added over the course of the class.
